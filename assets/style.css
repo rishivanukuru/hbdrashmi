@@ -116,7 +116,12 @@ body {
   margin-top: 50px;
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background-color: bisque;
+}
+
+.footer p{
+    
+    color: lightcoral;
 }
 
 
